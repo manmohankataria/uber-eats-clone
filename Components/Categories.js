@@ -36,7 +36,7 @@ export default function Categories() {
     <View style={{ marginTop: 5,
       backgroundColor: "#fff",
       paddingVertical: 10,
-      paddingLeft: 20,
+      paddingLeft: 20, 
        flexDirection: 'row',
        flexWrap: 'wrap',
        justifyContent: 'space-between' }}>
