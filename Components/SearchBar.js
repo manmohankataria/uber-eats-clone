@@ -10,13 +10,13 @@ export default function SearchBar() {
        placeholder="Search"
        styles={{
         textInput:{
-            backgroundColor:"#ccc",
+            backgroundColor:"#eee",
             borderRadius:20,
             fontWeight:"700",
             marginTop:7,
         },
         textInputContainer:{
-            backgroundColor:"#ccc",
+            backgroundColor:"#eee",
             borderRadius:50,
             flexDirection:"row",
             alignItems:"center",
